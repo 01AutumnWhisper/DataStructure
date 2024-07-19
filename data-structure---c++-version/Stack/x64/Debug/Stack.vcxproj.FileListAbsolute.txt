@@ -1,0 +1,1 @@
+C:\DataStruct\data-structure---c++-version\Stack\x64\Debug\Stack.exe
